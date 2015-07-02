@@ -11,7 +11,7 @@
     },
     "autoload": {
         "psr-0": {
-            "Sj": "vendor/",
+            "Sj": "vendor/sj/slim-dispatcher/",
             "Controllers": "./app/"
         }
     }
