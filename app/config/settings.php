@@ -16,6 +16,7 @@ return $settings;
 //"repositories": [
 //    {
 //        "type": "svn",
+//        "url": "https://main/svn/repository.com"
 //    }
 //]
 //in svn
