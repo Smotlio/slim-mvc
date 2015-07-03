@@ -13,5 +13,6 @@
         "psr-0": {
             "Controllers": "./app/"
         }
-    }
+    },
+    "minimum-stability" : "dev"
 }
