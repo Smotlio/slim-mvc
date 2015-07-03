@@ -1,8 +1,9 @@
 <?php
 
 require("../vendor/autoload.php");
+$settings = require("../app/config/settings.php");
 
-$router = new \Sj\Router;
+$router = new \Sj\Router($settings);
 
 $routes = array(
     '/' => '',
