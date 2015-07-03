@@ -10,10 +10,24 @@ $settings = array(
 
 return $settings;
 
+//"require": {
+//    "sata/test": "@dev",
+//},
+//"repositories": [
+//    {
+//        "type": "svn",
+//    }
+//]
+//in svn
+//{
+//    "name": "sata/test",
+//}
+
 /*
  * @todo
  * 2) avtomati4no zarejdane na view-tata v kontrolera
  * 3) vuzmojnost za dobavqne na prefix na kontroleri i view-ta
  * 6) admin - gotovi template-i ot saita
  * 7) iserver kato vendor biblioteka s vuzmojnost za slagane vuv composer
+ * 8) layout
  */
