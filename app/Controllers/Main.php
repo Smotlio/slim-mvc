@@ -16,8 +16,4 @@ Class Main extends Controller {
         $this->render("test", array("title" => $title, "name" => "Test"));
     }
 
-    public function notFound() {
-
-        $this->render('error', array(), 404);
-    }
 }

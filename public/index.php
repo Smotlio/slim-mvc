@@ -11,6 +11,4 @@ $routes = array(
 
 $router->addRoutes($routes);
 
-$router->set404Handler("Main:notFound");
-
 $router->run();

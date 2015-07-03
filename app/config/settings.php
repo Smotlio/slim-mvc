@@ -31,4 +31,5 @@ return $settings;
  * 6) admin - gotovi template-i ot saita
  * 7) iserver kato vendor biblioteka s vuzmojnost za slagane vuv composer
  * 8) layout
+ * 9) router setting file
  */
